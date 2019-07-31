@@ -9,7 +9,7 @@ sub usage {
 usage:
         perl $0 [options]
 author
-        wanglu   double_giraffe@qq.com
+        wanglu   double_giraffe\@qq.com
 description:
 
 options:
